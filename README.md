@@ -1,2 +1,9 @@
 # GMC-OPT
-Global Multilayer Canopy OPTimization
+
+Author: Chi Chen
+
+Global Multilayer Canopy OPTimization (GMC-OPT) is designed to scale sub-daily leaf-level carbon fluxes to the canopy level. The model integrates three core components: canopy radiative transfer, optimization-based physiology, and energy balance. The program will output multilayered simulation of key varaibles such as: gross primary productivity, transpiration, stomatal conductance, Vcmax, Jmax, and etc at leaf and canopy levels.
+
+If you use the program, please cite: 
+Chen C. (2025), Scaling photosynthesis from leaf to canopy: A synthesis of optimization theories, vertical structure, and leaf turnover across timescales, under review
+
